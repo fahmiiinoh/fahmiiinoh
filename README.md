@@ -1,4 +1,4 @@
-h2 >Hi 👋, I'm Fahmi Noh/h1>
+<h2 >Hi 👋, I'm Fahmi Noh</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmiiinoh&show_icons=true&locale=en" alt="fahmiiinoh" /></p>
 
