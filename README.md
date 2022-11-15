@@ -4,7 +4,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmiiinoh&" alt="fahmiiinoh" /></p>
 
-- 👀 I’m interested in PHP, JSON, JavaScript language.
+- 👀 I’m interested in PHP, Dart, JavaScript language.
 - 🌱 I’m currently learning **Laravel and Flutter framework.**
 
 
