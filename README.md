@@ -4,7 +4,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmiiinoh&" alt="fahmiiinoh" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdarfan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiiinoh&layout=compact)
 
 - 👀 I’m interested in PHP, Dart, JavaScript language.
 - 🌱 I’m currently learning **Laravel and Flutter framework.**
