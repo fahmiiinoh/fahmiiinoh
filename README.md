@@ -6,8 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiiinoh&layout=compact)
 
-- 👀 I’m interested in PHP, Dart, JavaScript language.
-- 🌱 I’m currently learning **Laravel and Flutter framework.**
+- 👀 I’m interested in PHP, Go, JavaScript language.
+- 🌱 I’m currently learning **LAMP, MERN Stack and Microservices.**
 
 
 
