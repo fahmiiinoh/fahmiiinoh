@@ -1,6 +1,6 @@
 <h2 >Hi 👋, I'm Fahmi Noh</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmiiinoh&show_icons=true&locale=en&theme=radical" alt="fahmiiinoh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmiiinoh&show_icons=true&locale=en&theme=transparent" alt="fahmiiinoh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmiiinoh&" alt="fahmiiinoh" /></p>
 
