@@ -6,8 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiiinoh&layout=compact)
 
-- 👀 I’m interested in PHP, Go, JavaScript language.
-- 🌱 I’m currently learning **LAMP, MERN Stack and Microservices.**
+- 👀 I’m interested in PHP, JavaScript & Go language.
+- 🌱 I’m currently learning deeper into **LAMP Stack and Microservices.**
 
 
 
