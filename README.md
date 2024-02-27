@@ -4,7 +4,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmiiinoh&theme=radical" alt="fahmiiinoh" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiiinoh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiiinoh&layout=compact&theme=radical)
 
 - 👀 I’m interested in PHP, JavaScript & Go language.
 - 🌱 I’m currently learning deeper into **LAMP Stack and Microservices.**
