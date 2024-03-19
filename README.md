@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmiiinoh&layout=compact&theme=radical)
 
 - 👀 I’m interested in PHP, JavaScript & Go language.
-- 🌱 I’m currently learning deeper into **LAMP Stack and Microservices.**
+- 🌱 I’m currently learning deeper into **Laravel Framework.**
 
 
 
